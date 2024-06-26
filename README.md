@@ -71,3 +71,106 @@ Although the meaning of `items` has changed, the syntax for defining arrays re
 Here are some examples to illustrate the changes.
 
 [Basically, copy and paste the release note into this section.]
+
+
+
+# Navigation Menu Proposals.
+
+## Idea 1.
+
+##### Intro or Overview
+
+##### Versions
+
+- 2020-12
+- 2019-09
+- Draft 07
+- Draft 06
+- Draft 05
+
+##### Specification Links
+
+##### Migration
+
+##### Release Notes
+
+##### JSON Hyperschema
+
+---
+
+## Idea 2.
+
+##### Overview
+
+##### Versions
+
+- 2020-12
+- 2019-09
+- Draft 07
+- Draft 06
+- Draft 05
+
+##### Specification Links
+
+##### Migration
+
+##### Release Notes
+
+- 2020-12
+- 2019-09
+- Draft 07
+- Draft 06
+- Draft 05
+
+##### JSON Hyperschema
+
+---
+
+## Idea 3.
+
+##### Overview
+
+##### Specification Links
+
+##### Versions
+
+- 2020-12
+- 2019-09
+- Draft 07
+- Draft 06
+- Draft 05
+
+##### Migration
+
+##### Release Notes
+
+##### JSON Hyperschema
+
+# Overview section
+
+This section contains all the details you need to effectively use the Specification documents.
+
+### Specification Links
+
+This document explains the complex numbering and naming system for drafts and meta-schemas.
+
+### Versions
+
+### Migration
+
+Our migration guides on how to upgrade to newer JSON Schema draft versions.
+
+### Release Notes
+
+Our release notes gives you an overview of all the changes done in each draft.
+
+### JSON Hyperschema
+
+---
+
+Understanding JSON Schema draft names and numbers
+
+[Add text here]
+
+
+
