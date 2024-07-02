@@ -1,4 +1,5 @@
 # JSON-Schema-Spec
+## Draft-template Proposals
 Specification: https://json-schema.org/draft/2020-12/json-schema-core.html
 
 Authors:
